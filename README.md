@@ -9,4 +9,4 @@ This will respond with the JSON data for that menu
 
 Everything here is pretty hacky and not well commented, so read at your own peril :)
 
-The entry into this codebase is the `run` function in `menuParser.php`.
+The entry into the API is the `run` function in `api/menuParser.php`.
